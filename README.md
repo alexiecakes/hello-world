@@ -1,2 +1,2 @@
 # hello-world
-My first GitHub repository
+Hi! This is my first, GitHub repository! I'm alexiecakes, or just Alexie, and I've been self-teaching programming for a while now. Right now, I know how to write and read in C, C++, HTML, CSS, JavaScript and Python, but I wouldn't quite call myself an expert in any of these languages. Right now, I'd say I feel most at home in Python, and I want to expand my knowledge and connect more with the programming community. Cheers! ^^
